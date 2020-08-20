@@ -1,4 +1,4 @@
-Spatio-temporal algorithm implemented using Python.
+Spatio-temporal DBSCAN algorithm implemented using Python.
 
 ##  Working of the algorithm
 
